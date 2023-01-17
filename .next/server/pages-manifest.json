@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/api/departments": "pages/api/departments.js",
+  "/api/services": "pages/api/services.js",
+  "/api/services/[service]": "pages/api/services/[service].js",
+  "/api/[department]/[city]": "pages/api/[department]/[city].js",
+  "/api/[department]": "pages/api/[department].js"
+}

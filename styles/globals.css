@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#nav-height {
+  transition-duration: .1s;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+@layer components {
+  .card {
+    background-color: #fff;
+  }
+}
+
+.slider {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  width: auto;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  display: flex;
+  align-items: stretch;
+  scroll-snap-type: x mandatory;
+}
+
+.slider::-webkit-scrollbar {
+  display: none;
+}
+
+.slider .slide {
+  flex-shrink: 0;
+  padding: 20px 0 20px 20px;
+  scroll-snap-align: center;
+}
+
+.slider .slide:last-child {
+  padding-right: 20px;
+}
+
+.slider .slide>div {
+  background-color: #ffffff;
+  border-radius: 10px;
+  width: 300px;
+  height: 300px;
+  padding: 20px;
+}
+
+.swal2-success-ring {
+  border: 0.25em solid #79d147 !important;
+}
+
+[class^=swal2-success-line] {
+  background-color: #79d147 !important;
+}
+
+.swal2-success-circular-line-left,
+.swal2-success-circular-line-right,
+.swal2-success-fix {
+  display: none;
+}
+
+@layer base {
+
+  input[type="number"]::-webkit-inner-spin-button,
+  input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+}

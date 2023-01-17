@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Nébulisateur incesticides",
+    "description": "Le nébulisateur incesticide est un appareil utilisé pour diffuser des insecticides sous forme de fines particules dans l'air. Il est souvent utilisé pour lutter contre les insectes nuisibles dans les maisons, les jardins et les cultures."
+  },
+  {
+    "id": 2,
+    "name": "Pulvérisateur à pression insecticide",
+    "description": "Le pulvérisateur à pression insecticide est un appareil qui utilise de la pression pour propulser des insecticides sous forme de jet ou de brume. Il est souvent utilisé pour traiter les plantes et les surfaces contre les insectes et les maladies."
+  },
+  {
+    "id": 3,
+    "name": "Piège à taupe",
+    "description": "Le piège à taupe est un dispositif utilisé pour capturer les taupes, qui sont des animaux souterrains nuisibles qui peuvent endommager les pelouses et les jardins. Le piège est généralement placé dans le tunnel de la taupe et se déclenche lorsque l'animal y entre."
+  },
+  {
+    "id": 4,
+    "name": "Piège à loire",
+    "description": "Le piège à loire est un appareil utilisé pour capturer les loires, qui sont des oiseaux nuisibles qui peuvent causer des dommages aux cultures et aux jardins. Le piège est généralement placé dans les endroits où les loires sont susceptibles de se nourrir et attire les oiseaux avec de la nourriture."
+  },
+  {
+    "id": 5,
+    "name": "Pique anti-pigeon",
+    "description": "Les piques anti-pigeon est un dispositif utilisé pour empêcher les pigeons de se poser sur les rebords de fenêtre, les balcons et les toits. Ils sont généralement constitués de barres métalliques pointues placées de manière à ce que les pigeons ne puissent pas se poser confortablement."
+  },
+  {
+    "id": 6,
+    "name": "Poste d'appatage rat/souris",
+    "description": "Le poste d'appatage est un dispositif conçu pour attirer et capturer les rats et les souris. Il peut être utilisé dans une variété de situations, comme dans les maisons, les entreprises, les fermes, etc. pour contrôler les populations de rongeurs. Le poste d'appatage peut être alimenté par des appâts solides ou liquides et est généralement fabriqué en plastique ou en métal."
+  },
+  {
+    "id": 7,
+    "name": "Plaque de glue rat/souris",
+    "description": "La plaque de glue est une plaque collante conçue pour capturer les rats et les souris. La plaque est couverte d'une substance collante qui retient les rongeurs lorsqu'ils y marchent dessus. La plaque de glue est généralement placée dans les endroits où les rats et les souris sont susceptibles de passer, comme le long des murs ou sous les éviers."
+  },
+  {
+    "id": 8,
+    "name": "Nasse à rat/souris",
+    "description": "La nasse est un piège conçu pour capturer les rats et les souris vivants. La nasse est généralement fabriquée en métal ou en plastique et est dotée d'une ouverture à l'une de ses extrémités. Lorsqu'un rat ou une souris entre dans la nasse, il ne peut pas en sortir et est pris au piège."
+  },
+  {
+    "id": 9,
+    "name": "Piège anti-termite",
+    "description": "Le piège anti-termite est un dispositif conçu pour détecter et capturer les termites afin de protéger les maisons et les bâtiments contre ces insectes nuisibles. Les pièges anti-termite sont généralement placés à l'extérieur des bâtiments et peuvent être alimentés par des appâts ou des répulsifs chimiques."
+  },
+  {
+    "id": 10,
+    "name": "Injecteur traitement termite",
+    "description": "L'injecteur traitement termite est un outil utilisé pour injecter un produit de traitement contre les termites dans les charpentes en bois. L'injecteur est généralement utilisé pour traiter les bâtiments qui ont déjà été infestés par les termites afin de les éliminer et de protéger le bois contre de futurs problèmes."
+  }
+]

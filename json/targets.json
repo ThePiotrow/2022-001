@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Rat",
+    "category": "Les rongeurs"
+  },
+  {
+    "id": 2,
+    "name": "Souris",
+    "category": "Les rongeurs"
+  },
+  {
+    "id": 3,
+    "name": "Taupe",
+    "category": "Les rongeurs"
+  },
+  {
+    "id": 4,
+    "name": "Loire",
+    "category": "Les rongeurs"
+  },
+  {
+    "id": 5,
+    "name": "Cafard",
+    "category": "Les insectes"
+  },
+  {
+    "id": 6,
+    "name": "Puce",
+    "category": "Les insectes"
+  },
+  {
+    "id": 7,
+    "name": "Acarien",
+    "category": "Les insectes"
+  },
+  {
+    "id": 8,
+    "name": "Chenille",
+    "category": "Les insectes"
+  },
+  {
+    "id": 9,
+    "name": "Araignée",
+    "category": "Les insectes"
+  },
+  {
+    "id": 10,
+    "name": "Fourmi",
+    "category": "Les insectes"
+  },
+  {
+    "id": 11,
+    "name": "Punaise de lit",
+    "category": "Les insectes"
+  },
+  {
+    "id": 12,
+    "name": "Pigeon",
+    "category": "Les oiseaux"
+  },
+  {
+    "id": 13,
+    "name": "Guêpe",
+    "category": "Les insectes"
+  },
+  {
+    "id": 14,
+    "name": "Frelon",
+    "category": "Les insectes"
+  },
+  {
+    "id": 15,
+    "name": "Termite",
+    "category": "Les insectes"
+  },
+  {
+    "id": 16,
+    "name": "Mouche",
+    "category": "Les insectes"
+  },
+  {
+    "id": 17,
+    "name": "Moucheron",
+    "category": "Les insectes"
+  },
+  {
+    "id": 18,
+    "name": "Moustique",
+    "category": "Les insectes"
+  },
+  {
+    "id": 19,
+    "name": "Poisson d'argent",
+    "category": "Les insectes"
+  },
+  {
+    "id": 20,
+    "name": "Cloporte",
+    "category": "Les insectes"
+  },
+  {
+    "id": 21,
+    "name": "Mite alimentaire",
+    "category": "Les insectes"
+  },
+  {
+    "id": 22,
+    "name": "Mite de vêtements",
+    "category": "Les insectes"
+  }
+]
